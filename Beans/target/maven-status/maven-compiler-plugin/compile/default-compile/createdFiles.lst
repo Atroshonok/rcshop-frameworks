@@ -1,0 +1,8 @@
+com\atroshonok\Entity.class
+com\atroshonok\User.class
+com\atroshonok\Product.class
+com\atroshonok\UserType.class
+com\atroshonok\Order.class
+com\atroshonok\OrderState.class
+com\atroshonok\ProductCategory.class
+com\atroshonok\Cart.class
